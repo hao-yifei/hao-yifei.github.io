@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -91,7 +91,8 @@ Publications
 
 Teaching
 ======
-- Teaching Assistant, Mathematical Statistics, Jiannan Wang. BUAA, 2024 Autumn
+- Teaching Assistant, Differential Equations. BUAA, 2026 Spring
+- Teaching Assistant, Mathematical Statistics. BUAA, 2024 Autumn
 
 Honors & Awards
 ======
