@@ -91,8 +91,8 @@ Publications
 
 Teaching
 ======
-- Teaching Assistant, Differential Equations. BUAA, 2026 Spring
-- Teaching Assistant, Mathematical Statistics. BUAA, 2024 Autumn
+- Teaching Assistant, Differential Equations. 2026 Spring
+- Teaching Assistant, Mathematical Statistics. 2024 Autumn
 
 Honors & Awards
 ======
